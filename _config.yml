@@ -1,13 +1,13 @@
 # Site settings
-title: Minimal Monkey - Stephen Burgess
+title: Manjunath
 email: steve@minimalmonkey.com
-description: "Hello my name is Stephen Burgess."
+description: "Hello my name is Manjunath."
 tagline: "Hello my name is Stephen Burgess"
 baseurl: "http://kalburgimanjunath.github.io/producertoconsumer.github.io"
 url: "http://minimalmonkey.com"
-twitter_username: minimalmonkey
-github_username:  minimalmonkey
-bug_report: "https://github.com/minimalmonkey/minimalmonkey.github.io/issues"
+twitter_username: manjumk
+github_username:  kalburgimanjunath
+bug_report: "https://github.com/kalburgimanjunath/producertoconsumer.github.io/issues"
 per_page: 10
 paginate: 10 # should match per_page above
 
