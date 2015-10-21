@@ -1,0 +1,17 @@
+# Site settings
+title: Minimal Monkey - Stephen Burgess
+email: steve@minimalmonkey.com
+description: "Hello my name is Stephen Burgess."
+tagline: "Hello my name is Stephen Burgess"
+baseurl: ""
+url: "http://minimalmonkey.com"
+twitter_username: minimalmonkey
+github_username:  minimalmonkey
+bug_report: "https://github.com/minimalmonkey/minimalmonkey.github.io/issues"
+per_page: 10
+paginate: 10 # should match per_page above
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
+exclude: ['README.md', 'LICENSE', 'package.json', 'gulpfile.js', 'node_modules', 'archive']
